@@ -1,1 +1,12 @@
-#Angular Material - Sidemenu Starter Boilerplate
+# Angular Material - Sidemenu Starter Boilerplate
+
+[[https://github.com/rickdroio/angular-material-sidemenu-starter/blob/master/side2.jpg]]
+[[https://github.com/rickdroio/angular-material-sidemenu-starter/blob/master/side1.jpg]]
+
+
+###### How to run this code
+```
+git clone https://github.com/rickdroio/angular-material-sidemenu-starter.git
+npm install
+ng run
+```
